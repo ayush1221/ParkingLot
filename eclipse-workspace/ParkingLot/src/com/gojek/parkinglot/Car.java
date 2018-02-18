@@ -17,6 +17,4 @@ public class Car {
 		this.registrationNumber = registrationNumber;
 	}
 	
-	
-	
 }
